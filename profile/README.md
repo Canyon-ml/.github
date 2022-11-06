@@ -1,6 +1,6 @@
-# The Soul Machine Learning Framework
+# Neocognition
 
-Soul is far from a usable state - come back in a year or so.
+A Framework for Supervised, Unsupervised, and Reinforcement Learning
 
 Current Goals:
 
