@@ -1,4 +1,4 @@
-# Neocognition
+# Canyon
 
 A Framework for Supervised, Unsupervised, and Reinforcement Learning
 
